@@ -36,4 +36,4 @@ Lists the TFS shelvesets for the given or current user.
 ## See also
 
 * [unshelve](unshelve.md)
-* [shelve](unshelve.md)
+* [shelve](shelve.md)
